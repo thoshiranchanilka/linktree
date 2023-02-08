@@ -47,7 +47,7 @@ export const Cards = [
     href: "https://facebook.com/toshiran.chanilka",
     icon: "facebook",
     title: "Facebook",
-    description: "I don't use facebook much.",
+    description: "I use facebook but not too much.",
   },
   {
     href: "mailto:toshiranchanilka@gmail.com",
