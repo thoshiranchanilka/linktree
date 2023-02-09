@@ -2,8 +2,8 @@ export const codeRepository = "linktree";
 export const githubUsername = "thoshiranchanilka";
 export const heading = "Thoshiran Chanilka | Linktree";
 export const slogan = {
-  words: "Nothing is impossible if you",
-  hightlight: "just Imagined.",
+  words: "I can &",
+  hightlight: "I will",
 };
 
 export const Cards = [
