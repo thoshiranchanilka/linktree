@@ -8,13 +8,13 @@ export const slogan = {
 
 export const Cards = [
   {
-    href: "https://mobile.twitter.com/toshiranC",
+    href: "https://mobile.twitter.com/thoshiranC",
     icon: "twitter",
     title: "Twitter",
     description: "I mostly use twitter for crypto news.",
   },
   {
-    href: "https://www.instagram.com/toshiranc/",
+    href: "https://www.instagram.com/thoshiranchanilka/",
     icon: "instagram",
     title: "Instagram",
     description: "I use insta to showcase my photographs.",
