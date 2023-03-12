@@ -8,6 +8,12 @@ export const slogan = {
 
 export const Cards = [
   {
+    href: "https://thoshiranchanilka.vercel.app/",
+    icon: "portfolio",
+    title: "portfolio",
+    description: "This is my portfolio. You can find my work and my resume here.",
+  },
+  {
     href: "https://mobile.twitter.com/thoshiranC",
     icon: "twitter",
     title: "Twitter",
